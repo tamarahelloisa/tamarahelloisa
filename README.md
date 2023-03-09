@@ -1,16 +1,26 @@
-### Hi there 👋
+**Oi me Chamo Tamara Campos** :coffee:
 
-<!--
-**tamarahelloisa/tamarahelloisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<li> Estou cursando,programação Front End no Senai com Parceria de Ford Academy_
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<li>Atualmente me dedico somente aos estudo,mas ja atuei como Copeira Hospitar_
+
+
+
+<li> Já me aventurei também,como design e micropigmentadora de Sobrancelhas
+
+
+
+<li>Quero fazer outros cursos, na area para agregar na minha futura carreira como programadora de Front end.
+
+
+
+<p align="left">
+    <img src="https://img.wallpapic-br.com/i4238-823-247/medium/para-monitores-duplos-computador-portatil-teclado-de-tecnologia-imagem-de-fundo.jpg">
+    
+    
+
+
+
+
